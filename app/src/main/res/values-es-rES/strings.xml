@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Tiempo y distancia recorridos</string>
+    <string name="travelled_distance">Distancia recorrida:</string>
+    <string name="past_time">Tiempo transcurrido:</string>
+    <string name="txt_permissionGPS">Uso del GPS permitido</string>
+    <string name="txt_enableGPS">Activar GPS</string>
+    <string name="txt_disableGPS">Desactivar GPS</string>
+    <string name="txt_startRoute">Inicio de ruta</string>
+    <string name="txt_endRoute">Terminar recorrido</string>
+    <string name="padrao_distance">00:00</string>
+    <string name="txt_search">search</string>
+</resources>
